@@ -1,2 +1,6 @@
 streamlit
-gunicorn
+fastapi
+scikit-learn
+numpy
+pandas
+unicorn
